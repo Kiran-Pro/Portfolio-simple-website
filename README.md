@@ -1,4 +1,4 @@
-#🌐 Simple Portfolio Website
+🌐 Simple Portfolio Website
 
 This is a minimalist portfolio website built using HTML and CSS, featuring a Home and Contact page. It's a great starting point for developers or designers who want a clean, responsive online presence without heavy frameworks.
 
